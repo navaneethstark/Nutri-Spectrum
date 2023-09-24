@@ -1,4 +1,4 @@
-# SBSPS-Challenge-10145-Malnutrition-A-Disease-That-no-one-cares-about
+
 Malnutrition: A Disease That no one cares about
 
 # Nutri Spectrum - Visualizing the healthier world
